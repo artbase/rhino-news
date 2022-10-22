@@ -7,9 +7,7 @@
 # Smart Contracts and Solidity
 # Smart Contracts and Vyper
 # Smart Contracts and Security
-# Tokens
-  ## Tokens on Ethereum
-    -> ERC20 (read everything in chapter to this subject including this)
+# Tokens ✅
 # Oracles
 # DApps
 # The Ethereum Virtual Machine
