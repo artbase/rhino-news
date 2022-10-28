@@ -11,11 +11,11 @@
 - Security Risks and Antipatterns
 - Reentrancy
 - ✅ Arithmetic Over/Underflows
-- ✅ Unexpected Ether
+- cUnexpected Ether
 - DELEGATECALL
 - Default Visibilities
-- Entropy Illusion
-- External Contract Referencing
+- ✅ Entropy Illusion
+- ✅ External Contract Referencing
 - Short Address/Parameter Attack
 - Unchecked CALL Return Values
 - Race Conditions/Front Running
