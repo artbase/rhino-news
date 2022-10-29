@@ -19,7 +19,7 @@
 - Short Address/Parameter Attack
 - Unchecked CALL Return Values
 - Race Conditions/Front Running
-- Denial of Service (DoS)
+- ✅ Denial of Service (DoS)
 - Block Timestamp Manipulation
 - Constructors with Care
 - Uninitialized Storage Pointers
