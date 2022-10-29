@@ -11,7 +11,7 @@
 - Security Risks and Antipatterns
 - Reentrancy
 - ✅ Arithmetic Over/Underflows
-- cUnexpected Ether
+- Unexpected Ether
 - DELEGATECALL
 - Default Visibilities
 - ✅ Entropy Illusion
@@ -22,11 +22,11 @@
 - ✅ Denial of Service (DoS)
 - Block Timestamp Manipulation
 - Constructors with Care
-- Uninitialized Storage Pointers
+- ✅ Uninitialized Storage Pointers
 - Floating Point and Precision
-- Tx.Origin Authentication
-- Contract Libraries
-- Conclusions
+- ✅ Tx.Origin Authentication
+- ✅ Contract Libraries
+- ✅ Conclusions
 # Tokens ✅
 # Oracles
 # DApps
