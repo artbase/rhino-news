@@ -7,21 +7,26 @@
 # Smart Contracts and Solidity
 # Smart Contracts and Vyper
 # Smart Contracts and Security
-- Security Best Practices
-- Security Risks and Antipatterns
+- ✅ Security Best Practices
+  - Minimalism/simplicity
+  - Code reuse - DRY
+  - Code quality - OpenZepplin
+  - Readability/auditability
+  - Test coverage
+- ✅ Security Risks and Antipatterns
 - Reentrancy
 - ✅ Arithmetic Over/Underflows
 - Unexpected Ether
 - DELEGATECALL
-- Default Visibilities
+- ✅ Default Visibilities
 - ✅ Entropy Illusion
 - ✅ External Contract Referencing
-- Short Address/Parameter Attack
+- ✅ Short Address/Parameter Attack (without real example)
 - Unchecked CALL Return Values
-- Race Conditions/Front Running
+- ✅ Race Conditions/Front Running
 - ✅ Denial of Service (DoS)
 - Block Timestamp Manipulation
-- Constructors with Care
+- ✅ Constructors with Care (why contructor was changed)
 - ✅ Uninitialized Storage Pointers
 - Floating Point and Precision
 - ✅ Tx.Origin Authentication
