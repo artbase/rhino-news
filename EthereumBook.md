@@ -14,7 +14,7 @@
   - Readability/auditability
   - Test coverage
 - ✅ Security Risks and Antipatterns
-- Reentrancy
+- ✅ Reentrancy
 - ✅ Arithmetic Over/Underflows
 - Unexpected Ether
 - DELEGATECALL
@@ -22,13 +22,13 @@
 - ✅ Entropy Illusion
 - ✅ External Contract Referencing
 - ✅ Short Address/Parameter Attack (without real example)
-- Unchecked CALL Return Values
+- ✅ Unchecked CALL Return Values
 - ✅ Race Conditions/Front Running
 - ✅ Denial of Service (DoS)
 - Block Timestamp Manipulation
 - ✅ Constructors with Care (why contructor was changed)
 - ✅ Uninitialized Storage Pointers
-- Floating Point and Precision
+- ✅ Floating Point and Precision
 - ✅ Tx.Origin Authentication
 - ✅ Contract Libraries
 - ✅ Conclusions
