@@ -34,7 +34,7 @@
 - ✅ Conclusions
 # Tokens ✅
 # Oracles
-# DApps
+# DApps✅
 # The Ethereum Virtual Machine
 # Consensus
 # Ethereum Fork History
