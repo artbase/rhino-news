@@ -35,7 +35,10 @@
 # Tokens ✅
 # Oracles
 # DApps✅
-# The Ethereum Virtual Machine
+# The Ethereum Virtual Machine✅
+- What is EVM✅
+- Opcodes and bytecode✅
+- Gas✅
 # Consensus
 # Ethereum Fork History
 # Ethereum Standards
