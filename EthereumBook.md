@@ -1,5 +1,10 @@
 # What is Ethereum
-# Ethereum Basics
+# Ethereum Basics ✅
+- ✅ Faucet
+- ✅ Etherscan - block explorer
+- ✅ Fee and gas
+- ✅ Two type of accounts: Externally Owned Accounts (EOAs) and Contracts
+- ✅ Wallets: MetaMask, Jaxx, MyEtherWallet and Emerald Wallet
 # Ethereum Clients 
 # Cryptography
 # Wallets
@@ -36,9 +41,9 @@
 # Oracles
 # DApps✅
 # The Ethereum Virtual Machine✅
-- What is EVM✅
-- Opcodes and bytecode✅
-- Gas✅
+- ✅ What is EVM
+- ✅ Opcodes and bytecode
+- ✅ Gas
 # Consensus
 # Ethereum Fork History
 # Ethereum Standards
