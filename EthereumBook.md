@@ -8,7 +8,13 @@
 # Ethereum Clients 
 # Cryptography
 # Wallets
-# Transactions
+# Transactions✅
+- ✅ Why do we need 'nonce'?
+- ✅ Why do we need 'signature'?
+- ✅ Address for burning ether - 0x000000000000000000000000000000000000dEaD
+- ✅ Address for creating contract - 0x0
+- ✅ Offline Signing
+- ✅ Multiple-Signature (Multisig) Transactions
 # Smart Contracts and Solidity
 # Smart Contracts and Vyper
 # Smart Contracts and Security
