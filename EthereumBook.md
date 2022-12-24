@@ -7,7 +7,11 @@
 - ✅ Wallets: MetaMask, Jaxx, MyEtherWallet and Emerald Wallet
 # Ethereum Clients 
 # Cryptography
-# Wallets
+# Wallets ✅
+- ✅ Nondeterministic (Random) Wallets
+- ✅ Deterministic (Seeded) Wallets
+- ✅ Hierarchical Deterministic Wallets (BIP-32/BIP-44)
+- ✅ Seeds and Mnemonic Codes (BIP-39
 # Transactions✅
 - ✅ Why do we need 'nonce'?
 - ✅ Why do we need 'signature'?
