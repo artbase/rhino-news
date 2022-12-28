@@ -49,6 +49,10 @@
 - ✅ Conclusions
 # Tokens ✅
 # Oracles
+- The three main ways to set up an oracle can be categorized as request–response, publish-subscribe, and immediate-read.
+- Data Authentication : https://provable.xyz/, https://www.town-crier.org/, BlockOne IQ
+- Computation Oracles : https://truebit.io/
+- Decentralized Oracles : https://chainlinklabs.com/, SchellingCoin 
 # DApps✅
 # The Ethereum Virtual Machine✅
 - ✅ What is EVM
