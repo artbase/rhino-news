@@ -58,7 +58,10 @@
 - ✅ What is EVM
 - ✅ Opcodes and bytecode
 - ✅ Gas
-# Consensus
+# Consensus ✅
+- ✅ Proof of Work - Ethash
+- ✅ Example PoW : https://pirl.io, https://ethereumclassic.org/, https://ubiqsmart.com/
+- ✅ Proof of Stake - Casper
 # Ethereum Fork History
 # Ethereum Standards
 # Ethereum EVM Opcodes and Gas Consumption
