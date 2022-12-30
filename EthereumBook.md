@@ -7,6 +7,11 @@
 - ✅ Wallets: MetaMask, Jaxx, MyEtherWallet and Emerald Wallet
 # Ethereum Clients 
 # Cryptography
+- ✅ Asymmetric cryptography: Private Keys and Public Keys
+- ✅ Hash algorithm: Keccak-256, SHA-256
+- ✅ Elliptic Curve Cryptography: secp256k1
+- ✅ Public key (address): 0x04 - Uncompressed point - 65
+- Cryptographic Hash Functions
 # Wallets ✅
 - ✅ Nondeterministic (Random) Wallets
 - ✅ Deterministic (Seeded) Wallets
