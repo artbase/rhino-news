@@ -6,12 +6,14 @@
 - ✅ Two type of accounts: Externally Owned Accounts (EOAs) and Contracts
 - ✅ Wallets: MetaMask, Jaxx, MyEtherWallet and Emerald Wallet
 # Ethereum Clients 
-# Cryptography
+# Cryptography ✅
 - ✅ Asymmetric cryptography: Private Keys and Public Keys
 - ✅ Hash algorithm: Keccak-256, SHA-256
 - ✅ Elliptic Curve Cryptography: secp256k1
 - ✅ Public key (address): 0x04 - Uncompressed point - 65
-- Cryptographic Hash Functions
+- ✅ Cryptographic Hash Functions: Determinism, Verifiability, Noncorrelation, Irreversibility, Collision protection
+- ✅ Where we can use hash functions: Data fingerprinting, Message integrity (error detection), Proof of work, Authentication (password hashing and key stretching), Pseudorandom number generators,  Message commitment (commit–reveal mechanisms), Unique identifiers
+- ✅ Ethereum addresses: Inter Exchange Client Address Protocol, Checksum
 # Wallets ✅
 - ✅ Nondeterministic (Random) Wallets
 - ✅ Deterministic (Seeded) Wallets
