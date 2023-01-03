@@ -73,5 +73,10 @@
 # Ethereum Standards ✅
 - ✅ Limit of code in SMart Contract - https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md
 # Ethereum EVM Opcodes and Gas Consumption
-# Development Tools, Frameworks, and Libraries
+# Development Tools, Frameworks, and Libraries ✅
+- ✅ Frameworks: Truffle, Embark, OpenZeppelin
+- ✅ Libraries: web3.js, web3.py, EthereumJS, web3j, EtherJar, Nethereum, ethers.js
+- ✅ Platforms: ZeppelinOS, Emerald Platform
+- ✅ Utilities: EthereumJS helpeth, dapp.tools, SputnikVM
+- ✅ Tests: Mocha, pytest, ds-test
 # web3.js Tutorial
