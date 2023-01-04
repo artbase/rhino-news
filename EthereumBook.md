@@ -69,7 +69,7 @@
 - ✅ Proof of Work - Ethash
 - ✅ Example PoW : https://pirl.io, https://ethereumclassic.org/, https://ubiqsmart.com/
 - ✅ Proof of Stake - Casper
-# Ethereum Fork History
+# Ethereum Fork History ✅
 # Ethereum Standards ✅
 - ✅ Limit of code in SMart Contract - https://github.com/ethereum/EIPs/blob/master/EIPS/eip-170.md
 # Ethereum EVM Opcodes and Gas Consumption
