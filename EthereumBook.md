@@ -50,7 +50,7 @@
 - ✅ Offline Signing
 - ✅ Multiple-Signature (Multisig) Transactions
 # Smart Contracts and Solidity
-# Smart Contracts and Vyper
+# Smart Contracts and Vyper ✅
 # Smart Contracts and Security
 - ✅ Security Best Practices
   - Minimalism/simplicity
