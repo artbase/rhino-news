@@ -5,7 +5,30 @@
 - ✅ Fee and gas
 - ✅ Two type of accounts: Externally Owned Accounts (EOAs) and Contracts
 - ✅ Wallets: MetaMask, Jaxx, MyEtherWallet and Emerald Wallet
-# Ethereum Clients 
+# Ethereum Clients  ✅
+- ✅ Clients: Parity (written in Rust), Geth (written in Go), cpp-ethereum (written in C++), pyethereum (written in Python), Mantis (written in Scala), Harmony (written in Java)
+- ✅ Full Node, Remote client ~= wallet
+- ✅ JSON-RPC Interface
+- ✅ Remote client provides the ability to do one or more of the following:
+  - Manage private keys and Ethereum addresses in a wallet.
+  - Create, sign, and broadcast transactions.
+  - Interact with smart contracts, using the data payload.
+  - Browse and interact with DApps.
+  - Offer links to external services such as block explorers.
+  - Convert ether units and retrieve exchange rates from external sources.
+  - Inject a web3 instance into the web browser as a JavaScript object.
+  - Use a web3 instance provided/injected into the browser by another client.
+  - Access RPC services on a local or remote Ethereum node.
+- ✅ Mobiel wallets
+  - Jaxx
+  - Status
+  - Trust Wallet
+  - Cipher Browser
+- ✅ Browser wallets
+  - MetaMask
+  - Jaxx
+  - MyEtherWallet/MyCrypto
+  - Mist
 # Cryptography ✅
 - ✅ Asymmetric cryptography: Private Keys and Public Keys
 - ✅ Hash algorithm: Keccak-256, SHA-256
