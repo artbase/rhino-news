@@ -10,5 +10,7 @@
 - Merkle tree
 - Nakamoto consensus: “Proof-of-work is essentially one-CPU-one-vote”
 ## Bitcoin Ledger as a Data Store
-
+- LevelDB and Berkeley Database
+- digital signatures using elliptic curve cryptography
+- WORM media storage (write once, read many) 
 # 2. 
