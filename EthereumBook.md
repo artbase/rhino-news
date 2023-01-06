@@ -102,4 +102,4 @@
 - ✅ Platforms: ZeppelinOS, Emerald Platform
 - ✅ Utilities: EthereumJS helpeth, dapp.tools, SputnikVM
 - ✅ Tests: Mocha, pytest, ds-test
-# web3.js Tutorial
+# web3.js Tutorial ✅
