@@ -1,0 +1,28 @@
+{
+  "name": "web3jstutorial",
+  "version": "1.0.0",
+  "description": "empty place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artbase/rhino-news.git"
+  },
+  "keywords": [
+    "mastering",
+    "ethereum"
+  ],
+  "author": "artbase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artbase/rhino-news/issues"
+  },
+  "homepage": "https://github.com/artbase/rhino-news#readme",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "node-rest-client-promise": "^3.1.1",
+    "web3": "^1.8.1"
+  }
+}
