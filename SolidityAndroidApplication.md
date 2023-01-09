@@ -29,5 +29,14 @@
 - Libraries
 
 ## Advance
+- Compiler
+- Layout of State Variables in Storage
+- Layout in Memory
+- Layout of Call Data
+- Cleaning Up Variables
+- Source Mappings
+- Optimizer
+- Inline Assembly ✅
+- Yul
 
 ## v 0.8.0
