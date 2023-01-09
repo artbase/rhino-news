@@ -15,4 +15,8 @@
 - WORM media storage (write once, read many) 
 ## Using Block explorer
 - https://whatsonchain.com/unconfirmed-tx
-# 2. 
+# 2. Deep dive into basics
+## Type of numbers and big and little endians
+## bsv.js and bn.js
+## Hash functions
+## Keys and addresses
