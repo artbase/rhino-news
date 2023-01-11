@@ -20,3 +20,9 @@
 ## bsv.js and bn.js
 ## Hash functions
 ## Keys and addresses
+## ECDSA, Signing and Verification
+- ECDSA <= DSA (Digital signing algorithm)
+- Signing and Verification of message
+- Signature Formats: DER format (same as defined by Open SSL, ASN.1) , COMPACT format
+- HD keys and Seed phrases: BIP32, Mnemonics and BIP39
+## Transaction Format and Script
