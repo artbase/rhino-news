@@ -3,7 +3,10 @@ Ethereum’s purpose is not primarily to be a digital currency payment network. 
 - ✅ P2P
 - ✅ Transaction
 - ✅ Consensus alogrithm
-- The Birth of Ethereum
+- ✅ The Birth of Ethereum
+- ✅ Ethereum’s Four Stages of Development: Frontier, Homestead, Metropolis, and Serenity. The intermediate hard forks that have occurred (or are planned) to date are codenamed Ice Age, DAO, Tangerine Whistle, Spurious Dragon, Byzantium, and Constantinople.
+- ✅ Ethereum: A General-Purpose Blockchain - world wide computer (EVM)
+- Ethereum’s Components
 # Ethereum Basics ✅
 - ✅ Faucet
 - ✅ Etherscan - block explorer
