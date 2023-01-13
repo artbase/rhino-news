@@ -115,3 +115,87 @@ Ethereum’s purpose is not primarily to be a digital currency payment network. 
 - ✅ Utilities: EthereumJS helpeth, dapp.tools, SputnikVM
 - ✅ Tests: Mocha, pytest, ds-test
 # web3.js Tutorial ✅
+# Quick glossary:
+- Account
+- Address
+- BIPs
+- Block
+- Bytecode
+- Byzantium fork
+- Consensus
+- Consensus rules
+- Constantinople fork
+- Contract creation transaction
+- DAO - Decentralized Autonomous Organization
+- DApp
+- Deed - Non-fungible token (NFT) standard introduced by the ERC721 proposal
+- Digital signature
+- ECDSA - Elliptic Curve Digital Signature Algorithm
+- EIP
+- ENS
+- Entropy
+- EOA - Externally Owned Account
+- ERC - Ethereum Request for Comments
+- Ethash
+- Ether
+- EVM
+- Fallback function
+- Faucet
+- Finney
+- Frontier
+- Ganache
+- Gas
+- Genesis block
+- Geth
+- Hash
+- HD wallet
+- Homestead
+- ICAP
+- Ice Age
+- Internal transaction (also “message”)
+- IPFS
+- KDF
+- Keccak-256
+- Keystore file
+- LevelDB
+- Lightweight client
+- Merkle Patricia Tree
+- Message call
+- Metropolis
+- Miner
+- Network
+- NFT
+- Node
+- Nonce
+- Ommer
+- Parity
+- Private key
+- Proof of stake (PoS)
+- Proof of work (PoW)
+- Public key
+- Receipt
+- Re-entrancy attack
+- RLP
+- Satoshi Nakamoto
+- Serenity
+- Serpent
+- SHA
+- Singleton
+- Solidity
+- Smart contract
+- Spurious Dragon
+- Swarm
+- Szabo
+- Tangerine Whistle
+- Testnet
+- Transaction
+- Truffle
+- Turing complete
+- Vyper
+- Wallet
+Software that holds secret keys. Used to access and control Ethereum accounts and interact with smart contracts. Keys need not be stored in a wallet, and can instead be retrieved from offline storage (e.g., a memory card or paper) for improved security. Despite the name, wallets never store the actual coins or tokens.
+- Web3
+- Wei
+- Wei
+- Whisper
+- Zero address
