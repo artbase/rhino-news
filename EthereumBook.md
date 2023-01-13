@@ -1,4 +1,4 @@
-# What is Ethereum
+# What is Ethereum ✅
 Ethereum’s purpose is not primarily to be a digital currency payment network. While the digital currency ether is both integral to and necessary for the operation of Ethereum, ether is intended as a utility currency to pay for use of the Ethereum platform as the world computer
 - ✅ P2P
 - ✅ Transaction
@@ -6,7 +6,11 @@ Ethereum’s purpose is not primarily to be a digital currency payment network. 
 - ✅ The Birth of Ethereum
 - ✅ Ethereum’s Four Stages of Development: Frontier, Homestead, Metropolis, and Serenity. The intermediate hard forks that have occurred (or are planned) to date are codenamed Ice Age, DAO, Tangerine Whistle, Spurious Dragon, Byzantium, and Constantinople.
 - ✅ Ethereum: A General-Purpose Blockchain - world wide computer (EVM)
-- Ethereum’s Components
+- ✅ Ethereum’s Components: P2P network, Consensus rules, Transactions, State machine, Data structures, Consensus algorithm, Economic security, Clients
+- ✅ Ethereum and Turing Completeness: Turing Completeness as a “Feature”
+- ✅ From General-Purpose Blockchains to Decentralized Applications (0xD0Apps): A decentralized (P2P) storage protocol and platform, A decentralized (P2P) messaging protocol and platform
+- ✅ The Third Age of the Internet
+- ✅ Ethereum’s Development Culture - fast
 # Ethereum Basics ✅
 - ✅ Faucet
 - ✅ Etherscan - block explorer
