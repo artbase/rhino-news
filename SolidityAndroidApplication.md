@@ -21,9 +21,17 @@
   - only constructor is supported
   - after creating smart contract you get ABI 
   - cyclic creation dependencies are impossible
-- Visibility
-- Getter Functions
-- Function Modifiers
+- Visibility ✅
+  - 4 types of functions: external, public, internal and private
+  - state variables can be only public, internal or private
+- Getter Functions ✅
+  - use this if variable should be available external
+  - internal variable data = sth
+  - external variable this.data()
+  - you cannot get while array by default
+- Function Modifiers  ✅
+  - Modifiers can be use in smart conract and library (limited)
+  - Modifiers cannot implicitily access or change the arguments and return values of functionsthey modify. Their values can only be passed to themexplicitly at the point of invocation.
 - Constant and Immutable State Variables
 - Functions
 - Events
