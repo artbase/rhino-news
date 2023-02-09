@@ -15,7 +15,12 @@
 - Error handling
 
 ## Contract
-- Creating Contracts
+- Creating Contracts ✅
+  - web3.eth.Contract
+  - constructor is executed once and it is optional
+  - only constructor is supported
+  - after creating smart contract you get ABI 
+  - cyclic creation dependencies are impossible
 - Visibility
 - Getter Functions
 - Function Modifiers
