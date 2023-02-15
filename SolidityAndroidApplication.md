@@ -2,10 +2,31 @@
 
 ## Basic
 - Simple Smart Contract ✅
-- Blockchain Basics
-- Ethereum Virtual Machine
-- Layout of Solidity source file
-- Structure of contract
+- Blockchain Basics ✅
+  - transactions
+  - blocks -> order selection mechanism
+- Ethereum Virtual Machine ✅
+  - EVM is isolated from the Internet
+  - two type of accounts
+  - transaction is a message with information about 'to whom', 'from who', payload and Ether
+  - gas is a price of transaction
+  - places for storing data: storage, memory and stack
+  - delegatecall/callcode and libraries -> context from calling contract
+  - creating contract from contract
+  - deactivate and self-destruct
+  - logs
+- Layout of Solidity source file ✅
+  - SPDX License Identifier: MIT, UNLICENSED
+  - Version Pragma
+  - Importing other Source Files
+- Structure of contract ✅
+  - State Variables
+  - Functions
+  - Function Modifiers
+  - Events
+  - Errors
+  - Struct Types
+  - Enum Types
 - Types
 - Units and variables
 - Control Structures
