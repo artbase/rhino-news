@@ -53,8 +53,17 @@
 - Function Modifiers  ✅
   - Modifiers can be use in smart conract and library (limited)
   - Modifiers cannot implicitily access or change the arguments and return values of functionsthey modify. Their values can only be passed to themexplicitly at the point of invocation.
-- Constant and Immutable State Variables
-- Functions
+- Constant and Immutable State Variables  ✅
+  - constant
+  - immutable
+- Functions  ✅
+  - 'free functions'
+  - returning multiple values: functions can return more than one result
+  - view function
+  - pure functions
+  - receive Ether function
+  - fallback function
+  - function overloading 
 - Events
 - Errors and the Revert Statment
 - Inheritance
