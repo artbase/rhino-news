@@ -1,4 +1,16 @@
-# What is Ethereum
+# What is Ethereum ✅
+Ethereum’s purpose is not primarily to be a digital currency payment network. While the digital currency ether is both integral to and necessary for the operation of Ethereum, ether is intended as a utility currency to pay for use of the Ethereum platform as the world computer
+- ✅ P2P
+- ✅ Transaction
+- ✅ Consensus alogrithm
+- ✅ The Birth of Ethereum
+- ✅ Ethereum’s Four Stages of Development: Frontier, Homestead, Metropolis, and Serenity. The intermediate hard forks that have occurred (or are planned) to date are codenamed Ice Age, DAO, Tangerine Whistle, Spurious Dragon, Byzantium, and Constantinople.
+- ✅ Ethereum: A General-Purpose Blockchain - world wide computer (EVM)
+- ✅ Ethereum’s Components: P2P network, Consensus rules, Transactions, State machine, Data structures, Consensus algorithm, Economic security, Clients
+- ✅ Ethereum and Turing Completeness: Turing Completeness as a “Feature”
+- ✅ From General-Purpose Blockchains to Decentralized Applications (0xD0Apps): A decentralized (P2P) storage protocol and platform, A decentralized (P2P) messaging protocol and platform
+- ✅ The Third Age of the Internet
+- ✅ Ethereum’s Development Culture - fast
 # Ethereum Basics ✅
 - ✅ Faucet
 - ✅ Etherscan - block explorer
@@ -36,7 +48,7 @@
 - ✅ Public key (address): 0x04 - Uncompressed point - 65
 - ✅ Cryptographic Hash Functions: Determinism, Verifiability, Noncorrelation, Irreversibility, Collision protection
 - ✅ Where we can use hash functions: Data fingerprinting, Message integrity (error detection), Proof of work, Authentication (password hashing and key stretching), Pseudorandom number generators,  Message commitment (commit–reveal mechanisms), Unique identifiers
-- ✅ Ethereum addresses: Inter Exchange Client Address Protocol, Checksum
+- 📯✅ Ethereum addresses: Inter Exchange Client Address Protocol, Checksum
 # Wallets ✅
 - ✅ Nondeterministic (Random) Wallets
 - ✅ Deterministic (Seeded) Wallets
@@ -102,4 +114,88 @@
 - ✅ Platforms: ZeppelinOS, Emerald Platform
 - ✅ Utilities: EthereumJS helpeth, dapp.tools, SputnikVM
 - ✅ Tests: Mocha, pytest, ds-test
-# web3.js Tutorial
+# web3.js Tutorial ✅
+# Quick glossary:
+- Account
+- Address
+- BIPs
+- Block
+- Bytecode
+- Byzantium fork
+- Consensus
+- Consensus rules
+- Constantinople fork
+- Contract creation transaction
+- DAO - Decentralized Autonomous Organization
+- DApp
+- Deed - Non-fungible token (NFT) standard introduced by the ERC721 proposal
+- Digital signature
+- ECDSA - Elliptic Curve Digital Signature Algorithm
+- EIP
+- ENS
+- Entropy
+- EOA - Externally Owned Account
+- ERC - Ethereum Request for Comments
+- Ethash
+- Ether
+- EVM
+- Fallback function
+- Faucet
+- Finney
+- Frontier
+- Ganache
+- Gas
+- Genesis block
+- Geth
+- Hash
+- HD wallet
+- Homestead
+- ICAP
+- Ice Age
+- Internal transaction (also “message”)
+- IPFS
+- KDF
+- Keccak-256
+- Keystore file
+- LevelDB
+- Lightweight client
+- Merkle Patricia Tree
+- Message call
+- Metropolis
+- Miner
+- Network
+- NFT
+- Node
+- Nonce
+- Ommer
+- Parity
+- Private key
+- Proof of stake (PoS)
+- Proof of work (PoW)
+- Public key
+- Receipt
+- Re-entrancy attack
+- RLP
+- Satoshi Nakamoto
+- Serenity
+- Serpent
+- SHA
+- Singleton
+- Solidity
+- Smart contract
+- Spurious Dragon
+- Swarm
+- Szabo
+- Tangerine Whistle
+- Testnet
+- Transaction
+- Truffle
+- Turing complete
+- Vyper
+- Wallet
+Software that holds secret keys. Used to access and control Ethereum accounts and interact with smart contracts. Keys need not be stored in a wallet, and can instead be retrieved from offline storage (e.g., a memory card or paper) for improved security. Despite the name, wallets never store the actual coins or tokens.
+- Web3
+- Wei
+- Wei
+- Whisper
+- Zero address
