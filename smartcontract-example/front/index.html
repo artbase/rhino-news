@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+    </head>
+    <body>
+        <script>
+            const web3 = new Web3("http://localhost:7545");
+
+            async function getBlockNumber() {
+                const latestBlockNumber = await web3.eth.getBlockNumber();
+                console.log(latestBlockNumber);
+                return latestBlockNumber;
+            }
+            getBlockNumber();
+
+            async function loadBlockchainData() {
+                const accounts = await web3.eth.getAccounts()
+                console.log(accounts);
+            }
+            loadBlockchainData();
+        </script>
+    </body>
+</html>
